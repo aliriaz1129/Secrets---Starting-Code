@@ -1,0 +1,18 @@
+{
+  "name": "asd",
+  "version": "1.0.0",
+  "description": "Secrete",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ali",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15",
+    "mongoose-encryption": "^2.0.2"
+  }
+}
